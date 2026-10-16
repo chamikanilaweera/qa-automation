@@ -2,4 +2,4 @@
 
 ### Selenium (8 passed)
 
-![Selenium test results](docs/selenium-results.png)
+![Selenium test results](selenium-results.png)
